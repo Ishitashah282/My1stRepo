@@ -1,10 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 4CC4-324C
-
- Directory of D:\ISHITA\Roicians_Software_testing_classes\self_study_notes\Git_demoProject
-
-25/11/2021  05:32 PM    <DIR>          .
-25/11/2021  05:32 PM    <DIR>          ..
-25/11/2021  05:32 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  158,310,047,744 bytes free
+ Change 1
